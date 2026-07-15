@@ -1,0 +1,20 @@
+{
+  "servicos": [
+    {
+      "nome": "Agente para WhatsApp",
+      "descricao": "Automatiza o atendimento via WhatsApp utilizando Inteligência Artificial."
+    },
+    {
+      "nome": "Chat para Sites",
+      "descricao": "Chat inteligente integrado ao site da empresa."
+    },
+    {
+      "nome": "Automações",
+      "descricao": "Automação de processos repetitivos utilizando IA."
+    },
+    {
+      "nome": "Integrações",
+      "descricao": "Integração entre sistemas, APIs e ferramentas."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "faq": [
+    {
+      "pergunta": "O que é a AbraMente?",
+      "resposta": "Somos uma agência especializada em automação com Inteligência Artificial."
+    },
+    {
+      "pergunta": "Vocês fazem atendimento pelo WhatsApp?",
+      "resposta": "Sim. Criamos agentes inteligentes para atendimento automático."
+    },
+    {
+      "pergunta": "Atendem qualquer empresa?",
+      "resposta": "Sim. Adaptamos o agente conforme a necessidade de cada negócio."
+    }
+  ]
+}
